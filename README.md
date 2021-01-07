@@ -1,3 +1,2 @@
-# Background, Characters and Assets
-A repository to work on backgrounds, characters and assets needed in one or several scenes.
-This repository can be seen as a place to organize tasks, keep track on the needed assets and to get creative and share your results.
+# Organisation
+We use this repository to organize all of our tasks and to keep track of the milestones.
