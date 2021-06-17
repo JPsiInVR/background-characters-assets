@@ -15,3 +15,4 @@ Here is a list of literature on the discovery of J/Psi
 - [Nobel lecture by Samuel Ting](https://www.nobelprize.org/uploads/2018/06/ting-lecture.pdf): Samuel Ting was the leader of the research group at BNL.
 - [Nobel lecture by Burton Richter](https://www.nobelprize.org/uploads/2018/06/richter-lecture.pdf): Burton Richter was the leader of the research group at SLAC.
 - [A book on the discovery of quarks](https://uni-bonn.sciebo.de/s/8fpCxmRoTB1Nwso)
+- [A historical Introduction to elementary particles](https://application.wiley-vch.de/books/sample/3527406018_c01.pdf) 
